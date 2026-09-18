@@ -1,6 +1,6 @@
-# Cucumber Breeder Dashboard
+# Breeder Trait Dashboard
 
-Static multi-trait dashboard for VeggieVision cucumber exports. It runs entirely in the browser and can be hosted with GitHub Pages.
+Static multi-trait dashboard for plot-level phenotyping exports. It runs entirely in the browser and can be hosted with GitHub Pages.
 
 ## Data privacy
 
